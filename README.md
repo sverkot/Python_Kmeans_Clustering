@@ -1,4 +1,6 @@
 # k-Means clustering using Python
+
+The program does the following
 1. Asks the user for a filename which contains the point data which is to be clustered 
 2. Asks the user for the name of the output file.
 3. Asks the user for the number of clusters. This is the parameter k that will be used for k-means.
